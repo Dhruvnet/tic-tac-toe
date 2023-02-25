@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MICRO PROJECT MAD/Tic Tac Toe/app/src/main/res/drawable/app_main_theme_background.xml" value="0.2125" />
+        <entry key="..\:/MICRO PROJECT MAD/Tic Tac Toe/app/src/main/res/drawable/back_icon.xml" value="0.159" />
+        <entry key="..\:/MICRO PROJECT MAD/Tic Tac Toe/app/src/main/res/drawable/rounded_corners.xml" value="0.2125" />
+        <entry key="..\:/MICRO PROJECT MAD/Tic Tac Toe/app/src/main/res/layout/activity_choose_symbol.xml" value="0.334375" />
+        <entry key="..\:/MICRO PROJECT MAD/Tic Tac Toe/app/src/main/res/layout/activity_get_player1_name.xml" value="0.334375" />
+        <entry key="..\:/MICRO PROJECT MAD/Tic Tac Toe/app/src/main/res/layout/activity_get_player2_name.xml" value="0.334375" />
+        <entry key="..\:/MICRO PROJECT MAD/Tic Tac Toe/app/src/main/res/layout/activity_get_player_ai_name.xml" value="0.334375" />
+        <entry key="..\:/MICRO PROJECT MAD/Tic Tac Toe/app/src/main/res/layout/activity_get_player_name.xml" value="0.334375" />
+        <entry key="..\:/MICRO PROJECT MAD/Tic Tac Toe/app/src/main/res/layout/activity_main.xml" value="0.334375" />
+        <entry key="..\:/MICRO PROJECT MAD/Tic Tac Toe/app/src/main/res/layout/activity_two_player_game.xml" value="0.334375" />
+        <entry key="..\:/MICRO PROJECT MAD/Tic Tac Toe/app/src/main/res/layout/celebrate_dialog.xml" value="0.334375" />
+        <entry key="..\:/MICRO PROJECT MAD/Tic Tac Toe/app/src/main/res/layout/draw_dialog.xml" value="0.334375" />
+        <entry key="..\:/MICRO PROJECT MAD/Tic Tac Toe/app/src/main/res/layout/quit_dialog.xml" value="0.334375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
